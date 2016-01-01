@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['hostname'] = 'http://php-hakuna123matata.rhcloud.com/';
+$db['default']['username'] = 'adminsv6fMpA';
+$db['default']['password'] = 'df2U6vH6nf83';
 $db['default']['database'] = 'login';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
